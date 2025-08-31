@@ -1,0 +1,28 @@
+
+# Capsera AI Discord Bot Environment Variables
+
+# Bot Configuration
+NODE_ENV=development
+
+# MongoDB Database
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/
+DB_NAME=capsera_discord
+
+# Google Gemini AI API Keys (comma-separated for rotation)
+GEMINI_KEYS=your_gemini_key_1,your_gemini_key_2,your_gemini_key_3,your_gemini_key_4
+
+# Cloudinary Configuration
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+
+# Rate Limiting
+RATE_LIMIT_WINDOW_MS=86400000
+RATE_LIMIT_MAX_REQUESTS=25
+
+# File Upload Limits
+MAX_FILE_SIZE=10485760
+ALLOWED_FILE_TYPES=image/jpeg,image/png,image/gif,image/webp
+
+# Discord Bot Configuration
+DISCORD_BOT_TOKEN=your_discord_bot_token_here
