@@ -42,8 +42,8 @@ Transform your images into viral-worthy captions with the power of Google Gemini
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/capsera-discord-bot.git
-   cd capsera-discord-bot
+   git clone https://github.com/AniketShinde02/Bot.git
+   cd Bot
    ```
 
 2. **Install dependencies**
@@ -221,7 +221,7 @@ Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
 
 ### Project Structure
 ```
-capsera-discord-bot/
+Bot/
 ├── discord-bot.js          # Main bot file
 ├── server/                 # Backend services
 │   ├── models/            # Database models
@@ -286,7 +286,7 @@ npm run lint     # Run linting
 - Ensure proper file formats
 
 ### Getting Help
-- **GitHub Issues**: [Create an issue](https://github.com/your-username/capsera-discord-bot/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/AniketShinde02/Bot/issues)
 - **Discord Community**: Join our support server
 - **Documentation**: Check the guides above
 
@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: Bug reports and feature requests
 - **Discord Community**: Real-time support and discussions
-- **Email**: [your-email@example.com]
+- **Email**: [aniket.shinde02@gmail.com]
 - **Documentation**: Comprehensive guides and tutorials
 
 ---
@@ -335,8 +335,6 @@ See [GITHUB_SETUP.md](GITHUB_SETUP.md) for detailed upload instructions!
 
 **Made with ❤️ by the Capsera Team**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/capsera-discord-bot?style=social)](https://github.com/your-username/capsera-discord-bot)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/capsera-discord-bot?style=social)](https://github.com/your-username/capsera-discord-bot)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/capsera-discord-bot)](https://github.com/your-username/capsera-discord-bot/issues)
-#   B o t  
- 
+[![GitHub stars](https://img.shields.io/github/stars/AniketShinde02/Bot?style=social)](https://github.com/AniketShinde02/Bot)
+[![GitHub forks](https://img.shields.io/github/forks/AniketShinde02/Bot?style=social)](https://github.com/AniketShinde02/Bot)
+[![GitHub issues](https://img.shields.io/github/issues/AniketShinde02/Bot)](https://github.com/AniketShinde02/Bot/issues)
